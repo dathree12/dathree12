@@ -16,6 +16,3 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 </p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dathree12)](https://github.com/anuraghazra/github-readme-stats)
