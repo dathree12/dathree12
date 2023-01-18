@@ -3,5 +3,4 @@
 ##### Hello! My name is Daseul Park
 
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<Python>&color=<red>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dathree12)](https://github.com/anuraghazra/github-readme-stats)
