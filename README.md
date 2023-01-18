@@ -1,4 +1,4 @@
-### ❤ It's Daseul's Github ❤
+# It's Daseul's Github
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseulpecial&count_bg=%234B7FD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h4 align="left"><b>📚 Languages 📚</b></h3>
@@ -18,6 +18,5 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dathree12&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dathree12)](https://github.com/anuraghazra/github-readme-stats)
 
