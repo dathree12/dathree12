@@ -1,9 +1,7 @@
+### ❤ It's Daseul's Github ❤
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseulpecial&count_bg=%234B7FD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### ❤ It's Daseul's Github ❤
-
 <h4 align="left"><b>📚 Languages 📚</b></h3>
-</br>
 <p align="left">
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,10 +14,10 @@
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
 </p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dathree12&show_icons=true&theme=radical)
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dathree12)
