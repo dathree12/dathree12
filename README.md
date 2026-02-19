@@ -10,12 +10,12 @@
   <br>
   <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 25px; margin-bottom: 10px;"> 💼 Professional Experience </div>
   <div style="margin-bottom: 8px; margin-left: 10px;">
-    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> Yonsei University College of Medicine </div>
-    <div style="font-size: 14px; color: #666;"> Researcher, Department of Neurosurgery | 2025 – Present </div>
+    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> - Yonsei University College of Medicine </div>
+    <div style="font-size: 14px; color: #666;">    Researcher, Department of Neurosurgery | 2025 – Present </div>
   </div>
   <div style="margin-left: 10px;">
-    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> Seoul National University Hospital </div>
-    <div style="font-size: 14px; color: #666;"> Researcher, Department of Transdisciplinary Medicine | 2021 – 2024 </div>
+    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> - Seoul National University Hospital </div>
+    <div style="font-size: 14px; color: #666;">   Researcher, Department of Transdisciplinary Medicine | 2021 – 2024 </div>
   </div>
   <br>
   <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 25px; margin-bottom: 10px;"> 📚 Selected Publications </div>
