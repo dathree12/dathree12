@@ -1,6 +1,6 @@
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;"> 
-    👋 Hello, I'm Daseul (yiyu) 
+    👋 Hello, I'm Daseul Park 
   </h2>  
 
   <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 20px; margin-bottom: 10px;"> 🎓 Education </div>
