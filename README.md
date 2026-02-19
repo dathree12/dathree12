@@ -1,14 +1,44 @@
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> It's Daseul's Github </h2>  
-    <div style="font-weight: 700; font-size: 18px; text-align: left; color: #282d33;"> [Education]</div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Seoul National University | Seoul, South Korea M.S. in Bioengineering </div>
-    <div style="font-weight: 700; font-size: 18px; text-align: left; color: #282d33;"> [Professional Experience] </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Yonsei University College of Medicine | Seoul, South Korea Researcher, Department of Neurosurgery | 2025 – Present </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Seoul National University Hospital | Seoul, South Korea Researcher, Department of Transdisciplinary Medicine | 2021 – 2024 </div>
-    <div style="font-weight: 700; font-size: 18px; text-align: left; color: #282d33;"> [Paper] </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Kim, S., Park, D., Shin, Y., Kim, M. K., Jeon, H. S., Kim, Y. G., & Yoon, C. H. (2024). Deep learning-based fully automated grading system for dry eye disease severity. Plos one, 19(3), e0299776. </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> SeChong, Y., Park, D., Ahn, Y., Kwak, Y., Park, S., Back, S. W., ... & Kim, Y. G. (2025). Large-Scale Dermatopathology Dataset for Lesion Segmentation: Model Development and Analysis. Journal of Korean Medical Science, 40(35). </div>
+<div align="left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;"> 
+    👋 Hello, I'm Daseul (yiyu) 
+  </h2>  
+
+  <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 20px; margin-bottom: 10px;"> 🎓 Education </div>
+  <div style="font-size: 15px; color: #444; margin-left: 10px;"> 
+    <strong>Seoul National University</strong> | M.S. in Bioengineering
+  </div>
+
+  <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 25px; margin-bottom: 10px;"> 💼 Professional Experience </div>
+  <div style="margin-bottom: 8px; margin-left: 10px;">
+    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> Yonsei University College of Medicine </div>
+    <div style="font-size: 14px; color: #666;"> Researcher, Department of Neurosurgery | 2025 – Present </div>
+  </div>
+  <div style="margin-left: 10px;">
+    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> Seoul National University Hospital </div>
+    <div style="font-size: 14px; color: #666;"> Researcher, Department of Transdisciplinary Medicine | 2021 – 2024 </div>
+  </div>
+
+  <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 25px; margin-bottom: 10px;"> 📚 Selected Publications </div>
+  
+  <div style="margin-bottom: 12px; margin-left: 10px; line-height: 1.6;">
+    <div style="font-size: 15px; color: #282d33;"> 
+      <strong>Deep learning-based fully automated grading system for dry eye disease severity</strong> 
     </div>
+    <div style="font-size: 13px; color: #666;"> <i>PLOS ONE (2024)</i> </div>
+    <a href="https://doi.org/10.1371/journal.pone.0299776" target="_blank">
+      <img src="https://img.shields.io/badge/DOI-10.1371/journal.pone.0299776-blue?style=flat-square&logo=doi" alt="DOI">
+    </a>
+  </div>
+
+  <div style="margin-left: 10px; line-height: 1.6;">
+    <div style="font-size: 15px; color: #282d33;"> 
+      <strong>Large-Scale Dermatopathology Dataset for Lesion Segmentation: Model Development and Analysis</strong> 
+    </div>
+    <div style="font-size: 13px; color: #666;"> <i>Journal of Korean Medical Science (2025)</i> </div>
+    <a href="https://doi.org/10.3346/jkms.2025.40.e276" target="_blank">
+      <img src="https://img.shields.io/badge/DOI-10.3346/jkms.2025.40.e276-blue?style=flat-square&logo=doi" alt="DOI">
+    </a>
+  </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
