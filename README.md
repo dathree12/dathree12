@@ -2,12 +2,12 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px;"> 
     👋 Hello, I'm Daseul Park 
   </h2>  
-
+  <br>
   <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 20px; margin-bottom: 10px;"> 🎓 Education </div>
   <div style="font-size: 15px; color: #444; margin-left: 10px;"> 
     <strong>Seoul National University</strong> | M.S. in Bioengineering
   </div>
-
+  <br>
   <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 25px; margin-bottom: 10px;"> 💼 Professional Experience </div>
   <div style="margin-bottom: 8px; margin-left: 10px;">
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> Yonsei University College of Medicine </div>
@@ -17,7 +17,7 @@
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> Seoul National University Hospital </div>
     <div style="font-size: 14px; color: #666;"> Researcher, Department of Transdisciplinary Medicine | 2021 – 2024 </div>
   </div>
-
+  <br>
   <div style="font-weight: 700; font-size: 19px; color: #282d33; margin-top: 25px; margin-bottom: 10px;"> 📚 Selected Publications </div>
   
   <div style="margin-bottom: 12px; margin-left: 10px; line-height: 1.6;">
