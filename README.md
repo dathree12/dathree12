@@ -22,9 +22,8 @@
   
   <div style="margin-bottom: 12px; margin-left: 10px; line-height: 1.6;">
     <div style="font-size: 15px; color: #282d33;"> 
-      <strong>Deep learning-based fully automated grading system for dry eye disease severity</strong> 
+      <strong>Deep learning-based fully automated grading system for dry eye disease severity, PLOS ONE (2024)</strong> 
     </div>
-    <div style="font-size: 13px; color: #666;"> <i>PLOS ONE (2024)</i> </div>
     <a href="https://doi.org/10.1371/journal.pone.0299776" target="_blank">
       <img src="https://img.shields.io/badge/DOI-10.1371/journal.pone.0299776-blue?style=flat-square&logo=doi" alt="DOI">
     </a>
@@ -32,9 +31,8 @@
 
   <div style="margin-left: 10px; line-height: 1.6;">
     <div style="font-size: 15px; color: #282d33;"> 
-      <strong>Large-Scale Dermatopathology Dataset for Lesion Segmentation: Model Development and Analysis</strong> 
+      <strong>Large-Scale Dermatopathology Dataset for Lesion Segmentation: Model Development and Analysis, Journal of Korean Medical Science (2025) </strong> 
     </div>
-    <div style="font-size: 13px; color: #666;"> <i>Journal of Korean Medical Science (2025)</i> </div>
     <a href="https://doi.org/10.3346/jkms.2025.40.e276" target="_blank">
       <img src="https://img.shields.io/badge/DOI-10.3346/jkms.2025.40.e276-blue?style=flat-square&logo=doi" alt="DOI">
     </a>
