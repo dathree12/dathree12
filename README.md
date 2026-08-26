@@ -7,6 +7,9 @@
   <div style="font-size: 15px; color: #444; margin-left: 10px;"> 
     <strong>Seoul National University</strong> | M.S. in Bioengineering
   </div>
+  <div style="font-size: 15px; color: #444; margin-left: 10px;"> 
+    <strong>Dongguk University</strong> | B.S. in chemical engineering
+  </div>
   <br>
   <div style="font-weight: 700; font-size: 22px; color: #282d33; margin-top: 25px; margin-bottom: 10px;"> 💼 Professional Experience </div>
   <div style="margin-bottom: 8px; margin-left: 10px;">
